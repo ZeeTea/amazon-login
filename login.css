@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.boxs{
+    width: 400px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box2{
+    border: lightgray 2px solid;
+    padding: 60px;
+}
+
+.cheese{
+    background-color: gold;
+    width: 50%;
+}
+
+.new{
+    padding-left: 70px;
+}
+
+.pizza{
+    padding: 50px;
+}
+
+textarea{
+    width: 100%;
+}
+
+.help{
+    padding: 30px;
+}
+.create{
+    width: 100%;
+}
